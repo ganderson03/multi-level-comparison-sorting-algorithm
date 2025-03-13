@@ -1,1 +1,3 @@
-# all-hands-project-2-group-4
+# Multi-level Comparison Sorting Algorithm
+
+## All Hands Project 2 | Group 4
