@@ -1,0 +1,36 @@
+---
+author: [Coltin Colucci, Grant Anderson, Vivian Potts, Hemani Alaparthi, Megan Wolfarth, Willem Bennett]
+title: How does the presence of duplicate entries in primary sorting attributes affect the runtime (ms) of a Multi-Level-Comparison-Sorting Algorithm (an approach that sequentially evaluates attributes to resolve ties)?
+page-layout: full
+categories: [post, objects, subclasses]
+date: "2025-03-17"
+date-format: long
+toc: true
+format:
+    html:
+        code-links:    
+            - text: Github Repository
+              icon: github
+              href: https://github.com/ganderson03/wapbac-multilevel-sort
+
+---
+
+
+## Overview
+
+
+
+## Implementation
+
+
+
+## Data 
+
+
+
+## Analysis of Results
+
+
+
+## Conclusion
+
