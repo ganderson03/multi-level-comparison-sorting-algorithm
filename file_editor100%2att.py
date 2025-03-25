@@ -6,7 +6,7 @@ def replace_text_before_second_comma(file_path, replacement_text, output_file=No
     for line in lines:
         parts = line.split(',', 2)  # Split at the second comma only
         if len(parts) > 2:
-            modified_line = replacement_text + ',' + parts[1] + ',' + parts[2]
+            modified_line = replacement_text + ',' + parts[2]
         else:
             modified_line = line  # If fewer than two commas, keep the line as is
         modified_lines.append(modified_line)
